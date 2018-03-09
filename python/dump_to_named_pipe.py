@@ -10,7 +10,7 @@
 # 	   Writing to a named pipe starts to break down when the fetched data set
 #   		gets above 500 million rows or so.  YMMV.
 #
-#	Bart Kersteter - bkersteter@gopivotal.com
+#	Bart Kersteter - bkersteter@gmail.com
 
 import cx_Oracle
 import csv
