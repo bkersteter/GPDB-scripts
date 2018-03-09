@@ -13,7 +13,7 @@
        By default this gets put in the public schema.  Add schema prefixes as necessary and make
        sure they are included in your search path so they get picked up properly.
        
-       Bart Kersteter   bart.kersteter@emc.com
+       Bart Kersteter   bkersteter@gmail.com
        
 */
        
