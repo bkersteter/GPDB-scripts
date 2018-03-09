@@ -1,7 +1,7 @@
 #!/bin/ksh
 
 # quick script to strip inon-UTF8 compliant characters from data files
-# Bart Kersteter - bart.kersteter@emc.com
+# Bart Kersteter - bkersteter@gmail.com
 #
 # Run in the directory the load files are sitting in or modify
 # the code to cd to that directory.
