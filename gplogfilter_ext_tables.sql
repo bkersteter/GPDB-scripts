@@ -6,7 +6,7 @@
 #   to set up similar views.  Basically you need to figure out the right gplogfilter options to give you the data you want to see
 #   and then create a listing of columns to match what you're pulling back.
 #
-#	Bart Kersteter    bart.kersteter@emc.com    4/2012
+#	Bart Kersteter    bkersteter@gmail.com    4/2012
 #
 
 drop external web table gp_log_errs_master;
