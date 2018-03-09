@@ -18,7 +18,7 @@
 #	keeping POC engagements moving along and getting at least some of the data into 
 #	a DCA system so you can test.  It should not be distributed to customers.
 #
-#	Bart Kersteter	bart.kersteter@emc.com
+#	Bart Kersteter	bkersteter@gmail.com
 #
 #	Usage:   run gpfcd_csv.py -h to see usage description.
 #
