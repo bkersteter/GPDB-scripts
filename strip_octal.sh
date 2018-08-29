@@ -1,6 +1,6 @@
 #!/bin/ksh
 
-# quick script to strip inon-UTF8 compliant characters from data files
+# quick script to strip non-UTF8 compliant characters from data files
 # Bart Kersteter - bkersteter@gmail.com
 #
 # Run in the directory the load files are sitting in or modify
@@ -10,7 +10,11 @@
 #	dealing with European accents or similar that UTF8 cannot
 #	handle well, create your external table as ENCODING='LATIN9' 
 #	or similar otherwise you will corrupt the data even if you 
-#	load it successfully.
+#	load it successfully.  External tables refers to Greenplum
+#  database.  This script will remove characters from any ASCII 
+#  file.
+#
+
 
 for fname in `ls -1 *final`
 do
